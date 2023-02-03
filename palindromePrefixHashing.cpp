@@ -15,7 +15,6 @@ int main(){
 				hsh[i][j] = 0;
 			}
 		}
-
 		int n, q;
 		cin>>n,q; // string length and q queries
 		string s;
@@ -46,9 +45,7 @@ int main(){
 			} else {
 				cout<<"YES"<<endl;
 			}
-
 		}
-
 	}
 	return 0;
 }
